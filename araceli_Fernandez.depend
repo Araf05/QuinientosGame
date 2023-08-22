@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1687920470 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1684536963 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688083942 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\prototipos.h
+
+1687475814 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\interfaz.h
+
+1687480297 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\menuprincipal.h
+
+1687485840 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\dosplayers.h
+
+1687476097 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\daditos.h
+
+1688088829 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\menuprincipal.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688088760 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\dosplayers.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1687749581 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\dados.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1687747966 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\puntos.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1687407291 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\puntos.h
+
+1687484839 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\unplayer.h
+
+1688083812 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\unplayer.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688085046 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\ranking.cpp
+	<iostream>
+	<string.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1687920385 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\interfaz.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1687495429 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\animaciones.cpp
+	<iostream>
+	"rlutil.h"
+	"prototipos.h"
+
+1687475442 c:\users\noe_3\onedrive\documentos\github\tp integrador\escalera500\ranking.h
+
+1687749581 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\dados.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1684536963 c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1688521735 c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\prototipos.h
+
+1688609787 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\dosplayers.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688610045 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\interfaz.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688512653 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\main.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688088829 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\menuprincipal.cpp
+	<iostream>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688607455 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\puntos.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1689113843 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\ranking.cpp
+	<iostream>
+	<string.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1689113903 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\unplayer.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"rlutil.h"
+	"prototipos.h"
+
+1688608092 source:c:\users\noe_3\onedrive\documentos\github\tp integrador\araceli_fernandez\animaciones.cpp
+	<iostream>
+	"rlutil.h"
+	"prototipos.h"
+
